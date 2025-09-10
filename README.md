@@ -8,7 +8,8 @@
 
 ###
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://codepen.io/pen/?editors=1010" />
+  <a href="https://www.linkedin.com/in/yasmin-barros-4388b5351/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
 </div>
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
